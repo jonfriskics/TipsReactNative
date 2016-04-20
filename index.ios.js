@@ -76,7 +76,7 @@ class TipsReactNative extends Component {
     
     this.state = {
       currentPage: 1
-    }
+    };
   }
 
   render() { 
